@@ -1,0 +1,19 @@
+{
+  "name": "config-bridge",
+  "version": "1.0.0",
+  "description": "Protractor configuration bridge",
+  "main": "pro-bridge.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PraveenJagarlamudi/config-bridge.git"
+  },
+  "keywords": [
+    "Protractor"
+  ],
+  "author": "Praveen Jagarlamudi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PraveenJagarlamudi/config-bridge/issues"
+  },
+  "homepage": "https://github.com/PraveenJagarlamudi/config-bridge"
+}
